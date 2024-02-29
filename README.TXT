@@ -5,6 +5,5 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Repeat Addition
-PURPOSE OF PROJECT: Assignment
-VERSION or DATE: 8/30/2019
+DATE: 2018
 AUTHORS: Mustafa Nafia
